@@ -17,5 +17,4 @@ This repository contains various experiments inspired by curiosity and learning.
 - Analyzes the Adam optimizer's behavior and performance in machine learning tasks.
 
 ### Exp-5: Document Size vs Retrieval Time in MongoDB
-- Measures how document size impacts retrieval time in MongoDB, with a focus on network transfer and deserialization overhead.
-
+- Measures how document size impacts retrieval time in MongoDB.
