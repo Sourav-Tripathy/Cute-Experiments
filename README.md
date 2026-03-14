@@ -18,3 +18,6 @@ This repository contains various experiments inspired by curiosity and learning.
 
 ### Exp-5: Document Size vs Retrieval Time in MongoDB
 - Measures how document size impacts retrieval time in MongoDB.
+
+### Exp-6: Python Web Frameworks: Routing Complexity and swallowing Experiment
+- Explores how various Python web frameworks process HTTP routes, focusing on sequential evaluation versus radix/tree-based compilation. Includes experiments with dynamic and static route handling and how in some the order of routes impacts the requests.
