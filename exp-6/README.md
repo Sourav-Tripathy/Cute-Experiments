@@ -90,4 +90,4 @@ python3 visualize.py
 This will produce `routing_complexity_graph.png` and `startup_complexity_graph.png` in the directory so you can visually examine the algorithmic tradeoffs.
 
 ---
-*(Environment tracked during testing: CPython 3.10.12 | Django 5.2.12 | Flask 3.1.3 | Falcon 4.2.0 | Sanic 25.12.0 | FastAPI 0.115.6 on bare-metal dual-boot Ubuntu 22.04, 8GB RAM, 512GB SSD).*
+*(Environment tracked during testing: CPython 3.10.12 | Django 5.2.12 | Flask 3.1.3 | Falcon 4.2.0 | Sanic 25.12.0 | FastAPI 0.115.6 on  dual-boot Ubuntu 22.04, 8GB RAM, 512GB SSD).*
